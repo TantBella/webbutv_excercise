@@ -1,1 +1,15 @@
 ! + tab = skapar ett skelett
+
+
+Tamara:
+
+Landing
+Kontakt
+About
+FAQ
+
+Bella:
+Fotogalleri
+Formulär
+Blogglista
+404
