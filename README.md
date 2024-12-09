@@ -22,9 +22,9 @@ Instruktioner :)
 1. Båda klonar repositoryn till era datorer. -Check
 
 1. Strukturera projektet
-   • Skapa en mapp för alla HTML-sidor.
+   • Skapa en mapp för alla HTML-sidor. -Check
    • Lägg till en fil som heter index.html i huvudmappen som kommer fungera som
-   startsida (Landing Page).
+   startsida (Landing Page). -check
 
 1. Skapa era sidor
    • Skapa var sin ny gren i git för varje ny sida.
