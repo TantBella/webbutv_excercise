@@ -15,7 +15,7 @@ era sidor.
 1. Bestäm vem som skapar vilka sidor. Använd Git för att koordinera arbetet. -Check
 2. Skapa en gemensam Git-repository och klona det till era datorer. -Check
 
-Instruktioner
+Instruktioner :)
 
 1. Skapa och dela en Git-repository -Check
 1. En av er skapar en repository på GitHub -Check
