@@ -11,5 +11,5 @@ FAQ
 Bella:
 Fotogalleri
 Formulär
-Blogglista
-404
+BlogglistaX
+404X

@@ -76,6 +76,9 @@ main {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+#PageNotFound {
+  text-align: center;
+}
 
 p {
   margin: 1rem;
