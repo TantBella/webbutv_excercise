@@ -80,8 +80,25 @@ main {
   text-align: center;
 }
 
+.photosP {
+  text-align: center;
+}
+
+#photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+}
+
+#photos > img {
+  max-width: 90%;
+  padding: 0;
+  margin: 1rem;
+}
+
 p {
   margin: 1rem;
+  letter-spacing: 2px;
 }
 
 img {
