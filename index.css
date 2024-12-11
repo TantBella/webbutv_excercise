@@ -96,6 +96,30 @@ main {
   margin: 1rem;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+  width: 10rem;
+}
+
+label {
+  font-size: smaller;
+  margin: 0.4rem 0;
+}
+
+input {
+  font-size: smaller;
+  margin-bottom: 0.5rem;
+}
+
+button {
+  padding: 0.3rem;
+  margin: 1rem;
+  align-self: flex-end;
+  /* width: 2rem; */
+}
+
 p {
   margin: 1rem;
   letter-spacing: 2px;
